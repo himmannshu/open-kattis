@@ -1,0 +1,2 @@
+# open-kattis
+Competitive Programming
